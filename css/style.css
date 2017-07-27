@@ -56,6 +56,7 @@ font-family: 'PT Sans', Regular;
 .title-big{
     font-size: 36px;
     font-family:CormorantInfant-Bold;
+    margin-top: 34px;
 }
 
 .title-small{
@@ -177,7 +178,7 @@ font-family: 'PT Sans', Regular;
 .post-description{
     font-size: 16px;
     color: #737373;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
 }
 
 .block1{
